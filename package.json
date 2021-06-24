@@ -1,0 +1,11 @@
+{
+  "name": "minitests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tylerreece22/minitests.git",
+  "author": "Tyler Reece <tyler.reece@imply.io>",
+  "license": "MIT",
+  "dependencies": {
+    "cron-parser": "^3.5.0"
+  }
+}
