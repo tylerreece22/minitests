@@ -7,7 +7,7 @@ class SomeClass {
         { type: 'cat', name: 'thomas'},
         { type: 'turtle', name: 'bob'},
         { type: 'pig', name: 'fredrick'},
-    ];
+    ] as const;
 }
 
 // Long hand
